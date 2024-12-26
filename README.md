@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend Projects<br>👯 I’m looking to collaborate <br>🤝 I’m looking and providing for help and Contribution of ideas in the projects<br>🌱 I’m currently learning Machine Learning, Android Development<br>⚡ I am Graphic Designer, UI/UX Designer
+🔭 I’m currently working on MERN Stack Projects<br>👯 I’m looking to collaborate <br>🤝 I’m looking and providing for help and Contribution of ideas in the projects<br>🌱 I’m currently learning Machine Learning, Android Development<br>⚡ I am Graphic Designer, UI/UX Designer, Web Designer
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shnwz3&limit=5&theme=dark&combine_all_yearly_contributions=true)
