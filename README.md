@@ -1,6 +1,11 @@
 # 💫 About Me:
 🔭 I’m currently working on Frontend Projects<br>👯 I’m looking to collaborate <br>🤝 I’m looking and providing for help and Contribution of ideas in the projects<br>🌱 I’m currently learning Machine Learning, Android Development<br>⚡ I am Graphic Designer, UI/UX Designer
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shnwz3&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=shnwz3&icon=5&color=5)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shnwz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shnwz.sn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shnwz3) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shnwz3) 
@@ -18,11 +23,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shnwz3&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=shnwz3&icon=5&color=5)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@shnwzz) 
